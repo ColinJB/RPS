@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RPSTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-03-22T04:28:01" hostname="Colins-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="determineWinner_determinePlayer1WinnerOfPaperVsRock_string" classname="RPSTest" time="0.001"/>
+  <testcase name="determineWinner_determinePlayer2WinnerOfPaperVsRock_string" classname="RPSTest" time="0.0"/>
+  <testcase name="determineWinner_determinePlayer1WinnerOfRockVsScissors_string" classname="RPSTest" time="0.0"/>
+  <testcase name="determineWinner_determinePlayer2WinnerOfRockVsScissors_string" classname="RPSTest" time="0.0"/>
+  <testcase name="determineWinner_determineTie_string" classname="RPSTest" time="0.0"/>
+  <testcase name="determineWinner_determinePlayer1WinnerOfScissorsVsPaper_string" classname="RPSTest" time="0.0"/>
+  <testcase name="determineWinner_determinePlayer2WinnerOfScissorsVsPaper_string" classname="RPSTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
